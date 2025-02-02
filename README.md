@@ -1,4 +1,5 @@
 # Тепличная среда: автоматизация сбора урожая в теплицах
+[![en](https://img.shields.io/badge/lang-EN-red?style=flat-square)](https://github.com/snowlue/cif-robotics-2024/blob/master/README.en.md)
 ### Состав команды
 - Павел Овчинников: [VK](https://vk.com/snowlue), [Telegram](https://t.me/snowlue), [GitHub](https://github.com/snowlue)
 - Михаил Журавлёв: [VK](https://vk.com/gentlemanofgoodluck), [Telegram](https://t.me/zhurik_ne_zhulik), [GitHub](https://github.com/crazycrendel)
