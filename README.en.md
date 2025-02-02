@@ -1,5 +1,5 @@
 # Greenhouse Environment: Automation of Harvesting in Greenhouses
-[![ru](https://img.shields.io/badge/lang-RU-blue?style=flat-square)](https://github.com/snowlue/cif-robotics-2024/blob/master/README.md)
+[![ru](https://img.shields.io/badge/lang-RU-blue?style=flat-square)](https://github.com/snowlue/cif-robotics-2024/blob/main/README.md)
 
 ### Team Members
 - Pavel Ovchinnikov: [Telegram](https://t.me/snowlue), [GitHub](https://github.com/snowlue)
